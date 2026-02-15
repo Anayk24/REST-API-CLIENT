@@ -12,7 +12,7 @@ Intern ID:CTIS4335
 
 *Mentor*:Neela Santhosh Kumar
 
-# Weather REST API (Java)
+# REST API CLIENT
 
 ## 📌 Project Description
 This project is a simple Java-based REST API client that fetches **real-time weather data** using the Open-Meteo public API.  
