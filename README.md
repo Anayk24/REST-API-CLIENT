@@ -32,7 +32,9 @@ It demonstrates HTTP requests, JSON parsing, and clean Java programming structur
 
 ## 📂 Project Structure:
 WeatherApp/
+
 │── WeatherApp.java
+
 │── README.md
 
 # Sample Output:
