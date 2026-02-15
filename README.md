@@ -42,3 +42,10 @@ Current Weather:
 Temperature : 27.1 °C
 Wind Speed  : 12.7 km/h
 <img width="1914" height="1012" alt="Image" src="https://github.com/user-attachments/assets/77f93d60-da48-4679-bc7c-6bf57ef5818e" />
+
+
+## Learning Outcome
+- Understanding REST API integration in Java  
+- Working with HTTP requests and responses  
+- Parsing JSON data in Java  
+
